@@ -20,11 +20,12 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HamidGuluzadeh&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+### 📂 My Top Projects
+[![E-Commerce Backend](https://github-readme-stats.vercel.app/api/pin/?username=HamidGuluzadeh&repo=E-Commerce-Backend&theme=react)](https://github.com/HamidGuluzadeh/E-Commerce-Backend)
 
+[![Warehouse Management System](https://github-readme-stats.vercel.app/api/pin/?username=HamidGuluzadeh&repo=Warehouse-Management-System-Backend&theme=react)](https://github.com/HamidGuluzadeh/Warehouse-Management-System-Backend)
 ---
 [![](https://komarev.com/ghpvc/?username=HamidGuluzadeh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 You can support me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mrguluzadeh) 
